@@ -72,13 +72,6 @@ npm test
 
 O uso de um servidor HTTP local é recomendado porque a interface importa módulos ES.
 
-## Escopo e limitações
-
-O AutomationLab é um **projeto de estudo autoral**, não um sistema comercial em operação. Não possui autenticação, permissões de usuário, banco compartilhado, filas em backend, integrações externas nem sincronização entre dispositivos. Os dados são fictícios e as operações não efetivam vendas, reservas ou mensagens.
-
-Uma evolução para uso empresarial exigiria arquitetura de servidor, persistência confiável, controle de acesso, idempotência transacional, backups, observabilidade e requisitos de privacidade e segurança adequados.
-
-Este código foi desenvolvido como projeto independente. **Não contém código, documentos ou informações internas de empregadores ou clientes.**
 
 ---
 
